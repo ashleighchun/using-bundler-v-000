@@ -1,4 +1,4 @@
-git@github.com:awesome-print/awesome_print.git
+require_relative '../config/environment'
 Hashie
 Sinatra
 Octokit
